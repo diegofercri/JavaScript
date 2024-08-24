@@ -58,4 +58,3 @@ console.log(!((5<6 || 6<7) && 8==9))
 
 // 10. Combina operadores aritméticos, de comparáción y lógicas
 console.log(((5*4>6 || 7!="7") && 9==9))
-
